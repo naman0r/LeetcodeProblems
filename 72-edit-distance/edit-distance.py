@@ -12,7 +12,7 @@ class Solution(object):
         '''
 
         cache = {} # (m,n) => res
-
+        # hello
         # standord CS221 first lecture same problem
         def dp(m, n): 
             if (m,n) not in cache: 
